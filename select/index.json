@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "桜の咲く音がした",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-05T00:59:03.490636Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜の咲く音がした",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_桜の咲く音がした_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜の咲く音がした",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_桜の咲く音がした_=LOVE.txt"
+    }
+  ]
+}
